@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
-        android:text="홍길동"
+        android:text="최광현"
         android:textSize="20dp"
         android:textStyle="bold"
         android:layout_toRightOf="@id/icon"/>
